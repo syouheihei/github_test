@@ -18,6 +18,8 @@ class ViewController: UIViewController {
         print("こんばんは")
         
         print("おはようございます")
+        
+        print(100,4)
     }
 
     override func didReceiveMemoryWarning() {
